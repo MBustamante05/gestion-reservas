@@ -27,5 +27,5 @@ Este es un sistema completo de gestión de reservas de salas desarrollado utiliz
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/MBustamante05/gestion-reservas/tree/main
+   git clone https://github.com/MBustamante05/gestion-reservas
    cd gestion-reservas
